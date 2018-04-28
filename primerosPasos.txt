@@ -1,0 +1,11 @@
+Primeros pasos: 
+1)Buscar páginas web e identificar su diseño así como de su estructura.
+2)Analizar los elementos gráficamente a nuestra disposición.
+3)Crear el slogan, logo y el nombre junto con su tipografía.
+4)Comenzar a diseñar en papel la página web identificando sus opcioes y poderla
+analizar haciéndola efectiva y atractica.
+5)Pasar dichos diseños a papel.
+6)Identificar las partes de la página que necesitarán envío de datos GET-POST
+así como la conexión con la base de datos.
+7)Diseñar la primera plantilla de la página.
+8)Dividir el trabajo.
