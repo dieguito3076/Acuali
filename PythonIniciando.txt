@@ -1,0 +1,2 @@
+Iniciando con python:
+Descripción de los programas que haremos en python.
