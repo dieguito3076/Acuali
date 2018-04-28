@@ -1,1 +1,8 @@
 Iniciando SQL, Arquitectura de base de datos:
+Las entidades que vamos a manejar se basan en:
+Usuario
+Dirección
+Incentivo 
+Gasto
+en donde se relacionarán con una segunda base de datos con el tratamiento de datos
+así como de los almacenes históricos.
