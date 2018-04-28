@@ -1,0 +1,5 @@
+Los elementos que se necesitarán primeramente son:
+1)Diseño gráfico con boostrap y CSS.
+2)Maquetado con HTML.
+3)Lógica con PHP y JavaScript.
+4)Conexión con base de datos MySQL.
